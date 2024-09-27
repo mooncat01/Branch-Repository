@@ -1,3 +1,4 @@
+/*
 // C program for Merge Sort
 #include <stdio.h>
 #include <stdlib.h>
@@ -110,3 +111,4 @@ int main()
 	printArray(arr, arr_size);
 	return 0;
 }
+*/
